@@ -1,0 +1,50 @@
+/* Hello World CSS */
+
+/* don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+
+body {
+  background-image: url("Forest.jpg");
+  background: 0a8910
+  font-size: 16px;
+  height: 100vh; /* trick to make the "page" the full height */
+}
+
+p {
+    font-size: 2em;
+    color: #bf4128;
+}
+
+#air-freshener {
+    color: #0a8e0c;
+    font-size: 10em;
+}
+
+
+.row {}
+
+  #another {
+    color: #ff0033;
+  }
+
+  h1 {
+      font-size: 4em;
+      color: #03172c;
+    }
+
+h2 {
+      font-size: 3em;
+      color: #390563;
+}
+  img {
+      width: 100%;
+      height: auto;
+      }
+
+  #Earth {
+     border-radius: 50%;
+     height:699px;
+   }
+
+  #Match {
+     border-radius: 600px;
+   }
